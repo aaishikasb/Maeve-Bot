@@ -1,0 +1,27 @@
+{
+  "name": "maeve",
+  "version": "1.0.0",
+  "description": "A Discord bot for my favorite munchkin, to keep her soul alive!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaishikasb/Maeve-Bot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Maeve"
+  ],
+  "author": "aaishikasb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaishikasb/Maeve-Bot/issues"
+  },
+  "homepage": "https://github.com/aaishikasb/Maeve-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
